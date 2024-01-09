@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>About Me</title>
+</head>
+<body>
+    <p>Hi I'm Shakthi Lakshmi. I like picking up new hobbies and interests.</p>
+    <hr/>
+    <h4>Education</h4>
+    <p>I'm an Electronics and Communication Engineering Student in <a href="https://www.psgtech.edu/">PSG College of Technology</a>, Coimbatore</p>
+    <hr/>
+</body>
+</html>
